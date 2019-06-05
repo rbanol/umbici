@@ -1,0 +1,7 @@
+{
+  "name": "bum",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
