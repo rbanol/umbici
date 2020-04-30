@@ -35,7 +35,7 @@
     "cordova-plugin-media-capture": "3.0.2",
     "core-js": "^2.5.4",
     "integrator-cordova-plugin-downloader": "1.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "leaflet": "^1.5.1",
     "materialize-css": "^1.0.0-rc.2",
     "rxjs": "~6.5.1",
